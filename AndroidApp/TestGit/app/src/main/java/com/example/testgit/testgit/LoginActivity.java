@@ -144,6 +144,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             mAuthTask.execute((Void) null);
 
             System.out.println("email");
+            System.out.println("new");
 
         }
     }
